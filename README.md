@@ -23,7 +23,7 @@
 **Fault diagnosis methods based on domain generalization have gained significant attention. However, obtaining sufficient labeled samples from various source domains is costly and challenging. Therefore, a new semi-supervised domain generalization fault diagnosis method based on a domain knowledge-guided pseudo-label generation framework is proposed. This method efficiently generates high-quality pseudo-labels and improves their robustness for cross-domain generalization. First, a domain knowledge-guided weight adjustment strategy is proposed to modulate the weights of shared classifiers by creating domain-level information vectors and adaptively adjusting class-level confidence thresholds to realize the trade-off between the quantity and quality of pseudo-label. 
 Further, a distributed feature expansion strategy is proposed to expand the feature space by enhancing the feature statistics in the channel dimension, improve the model's cross-domain adaptability, thereby reduce the accumulation of errors caused by feature shifts in pseudo-labels. Finally, a domain-aware prototype construct is proposed to maximize the similarity between intra-domain and cross-domain category prototypes, and align the category prototype similarity with the pseudo-labels to achieve domain-invariant knowledge learning and implicitly promote the high-quality generation of pseudo-labels. Experiments show that the proposed method generates high-quality pseudo-labels and achieves superior diagnostic accuracy in semi-supervised domain generalization fault diagnosis.**
 
-# **:sunny:**Proposed Method
+# :blue_book:Proposed Method
 
 ---
 
